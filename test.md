@@ -6,7 +6,7 @@ Als blok:
 \sqrt{3x-1}+(1+x)^2$
 ```
 
-Als namaakblok:
-$$
-\sqrt{3x-1}+(1+x)^2
-$$
+32G:
+```math
+x^2 - (x + 1)^2 = (x + 3)^2
+```
